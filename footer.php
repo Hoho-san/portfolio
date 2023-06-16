@@ -12,7 +12,7 @@
     </main>
 
     <!-- SCROLL REVAEL -->
-    <script src="https://unpkg.com/scrollreveal"></script>
+    <!-- <script src="https://unpkg.com/scrollreveal"></script> -->
 
     <!-- SCRIPT.JS -->
     <script src="js/script.js"></script>
