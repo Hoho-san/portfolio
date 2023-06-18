@@ -8,8 +8,8 @@
                     <img src="Images/about.jpg" alt="">
                 </div>
                 <div>
-                    <h2 class="about_subtitle">I'm Jessie</h2>
-                    <p class="about_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cumque alias laboriosam, harum odit iusto deleniti iure, similique velit maxime reprehenderit expedita adipisci numquam sit doloribus repellat quos dicta et.</p>
+                    <h2 class="about_subtitle">I'm "Pangalan mo"</h2>
+                    <p class="about_text">Libre mo na lng ako ng SB sa tagaytay. Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, quidem. Nesciunt iste delectus distinctio. Iste ab sit voluptas corrupti, repudiandae tenetur inventore eligendi, blanditiis quos porro eius in saepe, quae deleniti. Fugit saepe ullam ipsum harum molestias porro quia fuga assumenda accusamus voluptatibus laudantium neque reprehenderit, autem dolor a veniam!</p>
                 </div>
             </div>
         </section>
